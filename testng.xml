@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite" verboses = "2" parallel = "methods" thread-count = "3">
+  <test thread-count="5" name="Test">  
+    <classes>
+ <!--     <class name="testng.DependenciesExample"/>
+       <class name="testng.TimeExample"/>
+        <class name="testng.TestNgExample"/>-->
+        
+        <class name = "testng.ParallelExample"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
