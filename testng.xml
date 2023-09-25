@@ -6,7 +6,7 @@
  <!--     <class name="testng.DependenciesExample"/>
        <class name="testng.TimeExample"/>
         <class name="testng.TestNgExample"/>-->
-        
+        <class name = "testng.WaitExample"/>
         <class name = "testng.ParallelExample"/>
     </classes>
   </test> <!-- Test -->
