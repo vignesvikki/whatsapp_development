@@ -8,6 +8,7 @@
         <class name="testng.TestNgExample"/>-->
         <class name = "testng.WaitExample"/>
         <class name = "testng.ParallelExample"/>
+      <class name = "testng.exampleExample"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
